@@ -1,0 +1,5 @@
+include ':library'
+include ':leakcanary-watcher-lite'
+include ':leakcanary-android-lite'
+include ':leakcanary-support-fragment-lite'
+include ':leakcanary-sample'

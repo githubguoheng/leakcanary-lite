@@ -1,0 +1,22 @@
+# ninja log v5
+0	93	0	CMakeFiles/tailor.dir/src/main/xHook/xh_log.c.o	10164c47b23edcb9
+0	213	0	CMakeFiles/tailor.dir/src/main/xHook/xh_util.c.o	f0e351256624d7f4
+0	239	0	CMakeFiles/tailor.dir/src/main/xHook/xh_elf.c.o	d6284566f168cfcd
+0	239	0	CMakeFiles/tailor.dir/src/main/tailor/Tailor.cpp.o	8dee0545e31c20d4
+0	320	0	CMakeFiles/tailor.dir/src/main/tailor/xloader.cpp.o	714cbaddfc38bf80
+0	323	0	CMakeFiles/tailor.dir/src/main/xHook/xh_core.c.o	993d8a906738abdc
+323	361	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libtailor.so	9f3ce4869a467d6
+3	67	0	CMakeFiles/tailor.dir/src/main/xHook/xh_log.c.o	10164c47b23edcb9
+2	112	0	CMakeFiles/tailor.dir/src/main/xHook/xh_elf.c.o	d6284566f168cfcd
+3	121	0	CMakeFiles/tailor.dir/src/main/xHook/xh_util.c.o	f0e351256624d7f4
+2	171	0	CMakeFiles/tailor.dir/src/main/xHook/xh_core.c.o	993d8a906738abdc
+3	197	0	CMakeFiles/tailor.dir/src/main/tailor/Tailor.cpp.o	8dee0545e31c20d4
+4	223	0	CMakeFiles/tailor.dir/src/main/tailor/xloader.cpp.o	714cbaddfc38bf80
+223	285	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libtailor.so	9f3ce4869a467d6
+4	69	0	CMakeFiles/tailor.dir/src/main/xHook/xh_log.c.o	10164c47b23edcb9
+2	91	0	CMakeFiles/tailor.dir/src/main/xHook/xh_util.c.o	f0e351256624d7f4
+1	130	0	CMakeFiles/tailor.dir/src/main/xHook/xh_elf.c.o	d6284566f168cfcd
+1	146	0	CMakeFiles/tailor.dir/src/main/xHook/xh_core.c.o	993d8a906738abdc
+15	147	0	CMakeFiles/tailor.dir/src/main/tailor/Tailor.cpp.o	8dee0545e31c20d4
+21	203	0	CMakeFiles/tailor.dir/src/main/tailor/xloader.cpp.o	714cbaddfc38bf80
+203	229	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libtailor.so	9f3ce4869a467d6

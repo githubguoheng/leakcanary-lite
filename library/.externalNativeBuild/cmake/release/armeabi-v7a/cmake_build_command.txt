@@ -1,0 +1,17 @@
+Executable : /Users/guoheng/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library
+-B/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/.externalNativeBuild/cmake/release/armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-21
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/build/intermediates/cmake/release/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=/Users/guoheng/Library/Android/sdk/ndk-bundle
+-DCMAKE_CXX_FLAGS=-fvisibility=hidden
+-DCMAKE_TOOLCHAIN_FILE=/Users/guoheng/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/guoheng/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+-DANDROID_ARM_MODE=arm
+-DANDROID_STL=c++_static
+jvmArgs : 
+

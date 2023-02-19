@@ -1,0 +1,8 @@
+Executable : /Users/guoheng/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+--build
+/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/.externalNativeBuild/cmake/release/armeabi-v7a
+--target
+clean
+jvmArgs : 
+

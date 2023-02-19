@@ -1,0 +1,3 @@
+/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/tailor.dir

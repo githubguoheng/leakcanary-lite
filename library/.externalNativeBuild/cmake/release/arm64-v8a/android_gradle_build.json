@@ -1,0 +1,72 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/guoheng/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"tailor-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "tailor",
+			"buildCommand" : "/Users/guoheng/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/.externalNativeBuild/cmake/release/arm64-v8a --target tailor",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/guoheng/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/guoheng/Library/Android/sdk/ndk-bundle/sysroot -Dtailor_EXPORTS -I../../../../src/main/xHook  -isystem /Users/guoheng/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/src/main/xHook/xh_core.c",
+					"workingDirectory" : "/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/guoheng/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/guoheng/Library/Android/sdk/ndk-bundle/sysroot -Dtailor_EXPORTS -I../../../../src/main/xHook  -isystem /Users/guoheng/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/src/main/xHook/xh_elf.c",
+					"workingDirectory" : "/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/guoheng/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/guoheng/Library/Android/sdk/ndk-bundle/sysroot -Dtailor_EXPORTS -I../../../../src/main/xHook  -isystem /Users/guoheng/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/src/main/xHook/xh_util.c",
+					"workingDirectory" : "/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/guoheng/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/guoheng/Library/Android/sdk/ndk-bundle/sysroot -Dtailor_EXPORTS -I../../../../src/main/xHook  -isystem /Users/guoheng/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/src/main/xHook/xh_log.c",
+					"workingDirectory" : "/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/guoheng/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/guoheng/Library/Android/sdk/ndk-bundle/sysroot  -Dtailor_EXPORTS -I../../../../src/main/xHook -isystem /Users/guoheng/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/guoheng/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/guoheng/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/guoheng/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -fvisibility=hidden -std=c++11 -Werror=return-type  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/src/main/tailor/Tailor.cpp",
+					"workingDirectory" : "/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/guoheng/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/guoheng/Library/Android/sdk/ndk-bundle/sysroot  -Dtailor_EXPORTS -I../../../../src/main/xHook -isystem /Users/guoheng/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/guoheng/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/guoheng/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/guoheng/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -fvisibility=hidden -std=c++11 -Werror=return-type  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/src/main/tailor/xloader.cpp",
+					"workingDirectory" : "/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/.externalNativeBuild/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/build/intermediates/cmake/release/obj/arm64-v8a/libtailor.so",
+			"toolchain" : "5200267332270955576"
+		}
+	},
+	"toolchains" : 
+	{
+		"5200267332270955576" : 
+		{
+			"cCompilerExecutable" : "/Users/guoheng/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/guoheng/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}
