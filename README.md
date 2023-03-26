@@ -15,7 +15,7 @@
 
 **本项目共分两个部分，此部分为客户端的部分**
 
-`项目中仍在持续完善中，如果你也对性能和稳定性有兴趣，欢迎共同探讨 hitwh_guoheng@hotmail.com`
+`项目中仍在持续完善中`
 
 **本项目基于以下开源项目进行深度改造，且遵循以下项目的开源规则**
 
@@ -79,3 +79,6 @@ public class ExampleApplication extends Application {
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+## Email
+hitwh_guoheng@hotmail.com
