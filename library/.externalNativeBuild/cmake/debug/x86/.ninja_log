@@ -1,8 +1,0 @@
-# ninja log v5
-1	265	0	CMakeFiles/tailor.dir/src/main/tailor/Tailor.cpp.o	bc8cbacf46965e3e
-1	331	0	CMakeFiles/tailor.dir/src/main/tailor/xloader.cpp.o	193751950b6bc3cb
-1	667	0	CMakeFiles/tailor.dir/src/main/xHook/xh_log.c.o	2216d0aec6c0f61d
-1	739	0	CMakeFiles/tailor.dir/src/main/xHook/xh_util.c.o	e23a63ae22f4f651
-0	769	0	CMakeFiles/tailor.dir/src/main/xHook/xh_elf.c.o	779bc6aa9a9e7bce
-0	772	0	CMakeFiles/tailor.dir/src/main/xHook/xh_core.c.o	be64ab3b7312f762
-772	826	0	../../../../build/intermediates/cmake/debug/obj/x86/libtailor.so	25784584cf412b0a

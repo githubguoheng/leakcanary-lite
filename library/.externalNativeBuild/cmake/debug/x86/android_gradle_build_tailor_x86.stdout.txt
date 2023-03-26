@@ -1,7 +1,0 @@
-[1/7] Building C object CMakeFiles/tailor.dir/src/main/xHook/xh_elf.c.o
-[2/7] Building C object CMakeFiles/tailor.dir/src/main/xHook/xh_core.c.o
-[3/7] Building C object CMakeFiles/tailor.dir/src/main/xHook/xh_util.c.o
-[4/7] Building C object CMakeFiles/tailor.dir/src/main/xHook/xh_log.c.o
-[5/7] Building CXX object CMakeFiles/tailor.dir/src/main/tailor/Tailor.cpp.o
-[6/7] Building CXX object CMakeFiles/tailor.dir/src/main/tailor/xloader.cpp.o
-[7/7] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/x86/libtailor.so

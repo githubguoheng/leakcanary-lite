@@ -1,3 +1,0 @@
-/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
-/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
-/Users/guoheng/AndroidStudioProjects/leakcanary-lite/library/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/tailor.dir
